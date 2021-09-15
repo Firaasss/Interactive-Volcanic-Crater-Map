@@ -9,6 +9,7 @@ Folium - accepts and visualizes raw data in a physical map dashboard, compiled i
 Pandas - file processing library to parse CSV + JSON crater data and retrieve column attributes
 --------
 SCREENSHOTS:
+
 https://snipboard.io/O1In4c.jpg (map)
 https://snipboard.io/VkeJjO.jpg (interactive layer legend)
 https://snipboard.io/Ye48UF.jpg (crater popup)
